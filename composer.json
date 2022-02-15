@@ -1,0 +1,12 @@
+{
+    "name": "subhh/dependent-works",
+    "description": "Find media dependencies",
+    "type": "qcovery-module",
+    "require": {
+        "php": ">=7.3",
+        "subhh/module-installer-plugin": "*"
+    },
+    "extra": {
+        "moduleName": "DependentWorks"
+    }
+}
