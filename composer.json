@@ -4,7 +4,7 @@
     "type": "qcovery-module",
     "require": {
         "php": ">=7.3",
-        "module-installer-plugin": "*"
+        "hajoseng/module-installer-plugin": "*"
     },
     "extra": {
         "moduleName": "DependentWorks"
