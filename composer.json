@@ -2,9 +2,10 @@
     "name": "hajoseng/dependent-works",
     "description": "Find media dependencies",
     "type": "qcovery-module",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.3",
-        "hajoseng/module-installer-plugin": "*"
+        "hajoseng/module-installer-plugin": "*@dev"
     },
     "extra": {
         "moduleName": "DependentWorks"
