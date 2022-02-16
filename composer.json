@@ -1,5 +1,5 @@
 {
-    "name": "subhh/dependent-works",
+    "name": "hajoseng/dependent-works",
     "description": "Find media dependencies",
     "type": "qcovery-module",
     "require": {
