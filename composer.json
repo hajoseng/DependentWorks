@@ -3,7 +3,8 @@
     "description": "Find media dependencies",
     "type": "qcovery-module",
     "require": {
-        "php": ">=7.3"
+        "php": ">=7.3",
+        "hajoseng/module-installer-plugin": "*"
     },
     "extra": {
         "moduleName": "DependentWorks"
